@@ -31,7 +31,7 @@ from ...causal_lm_tester import CausalLMModelTest, CausalLMModelTester
 if is_torch_available():
     import torch
 
-    from transformers import (
+    from transformers.models.helpingai import (
         HelpingaiConfig,
         HelpingaiForCausalLM,
         HelpingaiForQuestionAnswering,

@@ -503,4 +503,6 @@ __all__ = [
     "HelpingaiForQuestionAnswering",
     "HelpingaiForSequenceClassification",
     "HelpingaiForTokenClassification",
+    "HelpingaiModel",
+    "HelpingaiPreTrainedModel",
 ]

@@ -216,4 +216,6 @@ __all__ = [
     "HelpingaiForQuestionAnswering",
     "HelpingaiForSequenceClassification",
     "HelpingaiForTokenClassification",
+    "HelpingaiModel",  # noqa: F822
+    "HelpingaiPreTrainedModel",  # noqa: F822
 ]
